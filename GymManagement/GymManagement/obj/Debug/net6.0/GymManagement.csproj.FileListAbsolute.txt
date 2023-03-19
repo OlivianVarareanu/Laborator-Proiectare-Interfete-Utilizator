@@ -1,0 +1,20 @@
+D:\PIU LABORATOARE\Proiect_PIU\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.csproj.AssemblyReference.cache
+D:\PIU LABORATOARE\Proiect_PIU\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\PIU LABORATOARE\Proiect_PIU\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.AssemblyInfoInputs.cache
+D:\PIU LABORATOARE\Proiect_PIU\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.AssemblyInfo.cs
+D:\PIU LABORATOARE\Proiect_PIU\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.csproj.CoreCompileInputs.cache
+C:\Users\varar\OneDrive\Desktop\Laborator-Proiectare-Interfete-Utilizator-FIX\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.csproj.AssemblyReference.cache
+C:\Users\varar\OneDrive\Desktop\Laborator-Proiectare-Interfete-Utilizator-FIX\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varar\OneDrive\Desktop\Laborator-Proiectare-Interfete-Utilizator-FIX\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.AssemblyInfoInputs.cache
+C:\Users\varar\OneDrive\Desktop\Laborator-Proiectare-Interfete-Utilizator-FIX\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.AssemblyInfo.cs
+C:\Users\varar\OneDrive\Desktop\Laborator-Proiectare-Interfete-Utilizator-FIX\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.csproj.CoreCompileInputs.cache
+C:\Users\varar\OneDrive\Desktop\Laborator-Proiectare-Interfete-Utilizator-FIX\GymManagement\GymManagement\bin\Debug\net6.0\GymManagement.exe
+C:\Users\varar\OneDrive\Desktop\Laborator-Proiectare-Interfete-Utilizator-FIX\GymManagement\GymManagement\bin\Debug\net6.0\GymManagement.deps.json
+C:\Users\varar\OneDrive\Desktop\Laborator-Proiectare-Interfete-Utilizator-FIX\GymManagement\GymManagement\bin\Debug\net6.0\GymManagement.runtimeconfig.json
+C:\Users\varar\OneDrive\Desktop\Laborator-Proiectare-Interfete-Utilizator-FIX\GymManagement\GymManagement\bin\Debug\net6.0\GymManagement.dll
+C:\Users\varar\OneDrive\Desktop\Laborator-Proiectare-Interfete-Utilizator-FIX\GymManagement\GymManagement\bin\Debug\net6.0\GymManagement.pdb
+C:\Users\varar\OneDrive\Desktop\Laborator-Proiectare-Interfete-Utilizator-FIX\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.dll
+C:\Users\varar\OneDrive\Desktop\Laborator-Proiectare-Interfete-Utilizator-FIX\GymManagement\GymManagement\obj\Debug\net6.0\refint\GymManagement.dll
+C:\Users\varar\OneDrive\Desktop\Laborator-Proiectare-Interfete-Utilizator-FIX\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.pdb
+C:\Users\varar\OneDrive\Desktop\Laborator-Proiectare-Interfete-Utilizator-FIX\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.genruntimeconfig.cache
+C:\Users\varar\OneDrive\Desktop\Laborator-Proiectare-Interfete-Utilizator-FIX\GymManagement\GymManagement\obj\Debug\net6.0\ref\GymManagement.dll

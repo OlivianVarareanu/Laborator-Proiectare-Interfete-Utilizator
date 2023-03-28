@@ -1,0 +1,13 @@
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\EvidentaMembriConsola\obj\Debug\EvidentaMembriConsola.csproj.AssemblyReference.cache
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\EvidentaMembriConsola\obj\Debug\EvidentaMembriConsola.csproj.SuggestedBindingRedirects.cache
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\EvidentaMembriConsola\obj\Debug\EvidentaMembriConsola.csproj.CoreCompileInputs.cache
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\EvidentaMembriConsola\bin\Debug\EvidentaMembriConsola.exe.config
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\EvidentaMembriConsola\bin\Debug\EvidentaMembriConsola.exe
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\EvidentaMembriConsola\bin\Debug\EvidentaMembriConsola.pdb
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\EvidentaMembriConsola\obj\Debug\EvidentaMembriConsola.exe
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\EvidentaMembriConsola\obj\Debug\EvidentaMembriConsola.pdb
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\EvidentaMembriConsola\bin\Debug\LibrarieModele.dll
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\EvidentaMembriConsola\bin\Debug\LibrarieModele.pdb
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\EvidentaMembriConsola\obj\Debug\EvidentaMembriConsola.csproj.CopyComplete
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\EvidentaMembriConsola\bin\Debug\NivelStocareDate.dll
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\EvidentaMembriConsola\bin\Debug\NivelStocareDate.pdb

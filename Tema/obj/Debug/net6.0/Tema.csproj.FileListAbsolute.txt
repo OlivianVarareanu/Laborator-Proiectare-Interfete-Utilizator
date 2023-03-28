@@ -1,0 +1,15 @@
+C:\Users\varar\OneDrive\Desktop\Tema\Tema\bin\Debug\net6.0\Tema.exe
+C:\Users\varar\OneDrive\Desktop\Tema\Tema\bin\Debug\net6.0\Tema.deps.json
+C:\Users\varar\OneDrive\Desktop\Tema\Tema\bin\Debug\net6.0\Tema.runtimeconfig.json
+C:\Users\varar\OneDrive\Desktop\Tema\Tema\bin\Debug\net6.0\Tema.dll
+C:\Users\varar\OneDrive\Desktop\Tema\Tema\bin\Debug\net6.0\Tema.pdb
+C:\Users\varar\OneDrive\Desktop\Tema\Tema\obj\Debug\net6.0\Tema.csproj.AssemblyReference.cache
+C:\Users\varar\OneDrive\Desktop\Tema\Tema\obj\Debug\net6.0\Tema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varar\OneDrive\Desktop\Tema\Tema\obj\Debug\net6.0\Tema.AssemblyInfoInputs.cache
+C:\Users\varar\OneDrive\Desktop\Tema\Tema\obj\Debug\net6.0\Tema.AssemblyInfo.cs
+C:\Users\varar\OneDrive\Desktop\Tema\Tema\obj\Debug\net6.0\Tema.csproj.CoreCompileInputs.cache
+C:\Users\varar\OneDrive\Desktop\Tema\Tema\obj\Debug\net6.0\Tema.dll
+C:\Users\varar\OneDrive\Desktop\Tema\Tema\obj\Debug\net6.0\refint\Tema.dll
+C:\Users\varar\OneDrive\Desktop\Tema\Tema\obj\Debug\net6.0\Tema.pdb
+C:\Users\varar\OneDrive\Desktop\Tema\Tema\obj\Debug\net6.0\Tema.genruntimeconfig.cache
+C:\Users\varar\OneDrive\Desktop\Tema\Tema\obj\Debug\net6.0\ref\Tema.dll

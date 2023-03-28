@@ -13,7 +13,7 @@ namespace NivelStocareData
             string equipmentFilePath = @"equipment.txt";
 
             // Save members to file
-            using (StreamWriter writer = new StreamWriter(membersFilePath))
+            using (StreamWriter writer = new StreamWriter(membersFilePath,true))
             {
                 foreach (Member member in gym.Members)
                 {
@@ -22,7 +22,7 @@ namespace NivelStocareData
             }
 
             // Save trainers to file
-            using (StreamWriter writer = new StreamWriter(trainersFilePath))
+            using (StreamWriter writer = new StreamWriter(trainersFilePath,true))
             {
                 foreach (Trainer trainer in gym.Trainers)
                 {
@@ -31,7 +31,7 @@ namespace NivelStocareData
             }
 
             // Save equipment to file
-            using (StreamWriter writer = new StreamWriter(equipmentFilePath))
+            using (StreamWriter writer = new StreamWriter(equipmentFilePath,true))
             {
                 foreach (Equipment equipment in gym.Equipment)
                 {

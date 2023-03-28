@@ -1,5 +1,0 @@
-D:\PIU LABORATOARE\Proiect_PIU\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.csproj.AssemblyReference.cache
-D:\PIU LABORATOARE\Proiect_PIU\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.GeneratedMSBuildEditorConfig.editorconfig
-D:\PIU LABORATOARE\Proiect_PIU\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.AssemblyInfoInputs.cache
-D:\PIU LABORATOARE\Proiect_PIU\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.AssemblyInfo.cs
-D:\PIU LABORATOARE\Proiect_PIU\GymManagement\GymManagement\obj\Debug\net6.0\GymManagement.csproj.CoreCompileInputs.cache

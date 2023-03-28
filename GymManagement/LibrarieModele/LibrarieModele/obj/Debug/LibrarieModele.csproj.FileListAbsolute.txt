@@ -1,0 +1,6 @@
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\LibrarieModele\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\LibrarieModele\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\LibrarieModele\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\LibrarieModele\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\LibrarieModele\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\varar\OneDrive\Desktop\PROIECT PIU\LibrarieModele\LibrarieModele\obj\Debug\LibrarieModele.pdb

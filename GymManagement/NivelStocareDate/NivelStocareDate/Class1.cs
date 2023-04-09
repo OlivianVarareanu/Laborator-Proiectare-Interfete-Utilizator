@@ -12,7 +12,7 @@ namespace NivelStocareData
             string trainersFilePath = @"trainers.txt";
             string equipmentFilePath = @"equipment.txt";
 
-            // Save members to file
+            // Salvarea membrilor is fisier
             using (StreamWriter writer = new StreamWriter(membersFilePath,true))
             {
                 foreach (Member member in gym.Members)
@@ -21,7 +21,7 @@ namespace NivelStocareData
                 }
             }
 
-            // Save trainers to file
+            // Salvarea trainerilor in fisier
             using (StreamWriter writer = new StreamWriter(trainersFilePath,true))
             {
                 foreach (Trainer trainer in gym.Trainers)
@@ -30,7 +30,7 @@ namespace NivelStocareData
                 }
             }
 
-            // Save equipment to file
+            // Salvarea echipamentului in fisier
             using (StreamWriter writer = new StreamWriter(equipmentFilePath,true))
             {
                 foreach (Equipment equipment in gym.Equipment)
